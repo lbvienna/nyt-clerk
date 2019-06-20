@@ -6,7 +6,7 @@ Usage
 
 ::
 
-    pip install -e git@github.com:newsdev/nyt-clerk.git#egg=clerk
+    pip install -e git+https://github.com/newsdev/nyt-clerk.git#egg=clerk
     clerk justices
 
 Data
